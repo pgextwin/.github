@@ -11,8 +11,10 @@ pgextwin is an independent community project that builds and publishes Windows x
 - [build](https://github.com/pgextwin/build) — shared Windows CI/CD, PostgreSQL lifecycle metadata, hook contracts, and manifest schema
 - [catalog](https://github.com/pgextwin/catalog) — machine-readable extension catalog for the website and future CLI
 - [website](https://github.com/pgextwin/website) — static catalog-driven website source
+- [pg_bigm](https://github.com/pgextwin/pg_bigm) — published Windows x64 binaries for pg_bigm
+- [pg_cron](https://github.com/pgextwin/pg_cron) — published Windows x64 binaries for pg_cron
 
-The pg_bigm pilot has completed technical validation across PostgreSQL 14–18 and is pending transfer into this Organization. The pg_cron second-extension pilot has also completed technical validation across PostgreSQL 14–18; its Organization repository has not yet been created.
+pg_bigm and pg_cron are published for PostgreSQL 14–18 and are listed in the pgextwin catalog. The next extension target is pg_hint_plan.
 
 ## Compatibility and installation
 
@@ -35,8 +37,10 @@ pgextwinは、選定したPostgreSQL拡張機能を標準的なWindows版Postgre
 - [build](https://github.com/pgextwin/build) — 共通Windows CI/CD、PostgreSQLライフサイクル情報、hook仕様、manifest schema
 - [catalog](https://github.com/pgextwin/catalog) — Websiteと将来のCLIが利用する機械可読catalog
 - [website](https://github.com/pgextwin/website) — catalog駆動の静的Websiteソース
+- [pg_bigm](https://github.com/pgextwin/pg_bigm) — pg_bigmのWindows x64バイナリ
+- [pg_cron](https://github.com/pgextwin/pg_cron) — pg_cronのWindows x64バイナリ
 
-pg_bigm pilotはPostgreSQL 14〜18で技術検証を完了しており、現在このOrganizationへのrepository移管待ちです。pg_cronの第2Extension pilotもPostgreSQL 14〜18で技術検証を完了しており、Organization配下の正式repository作成待ちです。
+pg_bigmとpg_cronはPostgreSQL 14〜18向けReleaseを公開済みで、pgextwin catalogにも掲載済みです。次の対象Extensionはpg_hint_planです。
 
 ## 対応状況と導入方法
 
