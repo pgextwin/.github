@@ -6,6 +6,14 @@
 
 pgextwin is an independent community project that builds and publishes Windows x64 binaries for selected PostgreSQL extensions. The goal is to make useful extensions easier to install with standard Windows PostgreSQL distributions, including the standard EDB PostgreSQL installer, without requiring every user to build from source.
 
+## Project repositories
+
+- [build](https://github.com/pgextwin/build) — shared Windows CI/CD, PostgreSQL lifecycle metadata, hook contracts, and manifest schema
+- [catalog](https://github.com/pgextwin/catalog) — machine-readable extension catalog for the website and future CLI
+- [website](https://github.com/pgextwin/website) — static catalog-driven website source
+
+The pg_bigm pilot has completed technical validation across PostgreSQL 14–18 and is pending transfer into this Organization.
+
 ## Compatibility and installation
 
 Each release will identify the upstream extension version, supported PostgreSQL major version, Windows architecture, and installation steps. Match those details to your PostgreSQL installation and read the extension's upstream documentation before installing.
@@ -21,6 +29,14 @@ This organization is not the upstream home of the extensions. PostgreSQL, EDB, a
 **PostgreSQL拡張機能の非公式Windows x64バイナリを配布するコミュニティプロジェクトです。**
 
 pgextwinは、選定したPostgreSQL拡張機能を標準的なWindows版PostgreSQL環境で利用しやすくするため、Windows x64向けバイナリのビルドと配布を行います。標準的なEDB版PostgreSQLインストーラーなどでの利用を目指します。
+
+## プロジェクトリポジトリ
+
+- [build](https://github.com/pgextwin/build) — 共通Windows CI/CD、PostgreSQLライフサイクル情報、hook仕様、manifest schema
+- [catalog](https://github.com/pgextwin/catalog) — Websiteと将来のCLIが利用する機械可読catalog
+- [website](https://github.com/pgextwin/website) — catalog駆動の静的Websiteソース
+
+pg_bigm pilotはPostgreSQL 14〜18で技術検証を完了しており、現在このOrganizationへのrepository移管待ちです。
 
 ## 対応状況と導入方法
 
