@@ -1,3 +1,5 @@
+![pgextwin mark](pgextwin-mark.svg)
+
 # PostgreSQL Extensions for Windows
 
 **Unofficial Windows x64 binaries for PostgreSQL extensions.**
