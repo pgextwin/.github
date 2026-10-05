@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">pgextwin mark</title>
+  <rect width="1024" height="1024" fill="#101B2A"/>
+  <circle cx="512" cy="512" r="440" fill="none" stroke="#39B7E8" stroke-width="22"/>
+  <g fill="#49C5E5">
+    <rect x="730" y="150" width="52" height="52" rx="10"/>
+    <rect x="798" y="150" width="52" height="52" rx="10" fill="#2587D8"/>
+    <rect x="730" y="218" width="52" height="52" rx="10" fill="#2587D8"/>
+    <rect x="798" y="218" width="52" height="52" rx="10"/>
+  </g>
+  <text x="512" y="560" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="360" font-weight="700" fill="#F2F7FC">PG</text>
+  <rect x="300" y="700" width="424" height="22" rx="11" fill="#39B7E8"/>
+  <text x="512" y="830" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="4" fill="#D8E4F0">EXTWIN</text>
+</svg>
