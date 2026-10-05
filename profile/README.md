@@ -12,7 +12,7 @@ pgextwin is an independent community project that builds and publishes Windows x
 - [catalog](https://github.com/pgextwin/catalog) — machine-readable extension catalog for the website and future CLI
 - [website](https://github.com/pgextwin/website) — static catalog-driven website source
 
-The pg_bigm pilot has completed technical validation across PostgreSQL 14–18 and is pending transfer into this Organization.
+The pg_bigm pilot has completed technical validation across PostgreSQL 14–18 and is pending transfer into this Organization. The pg_cron second-extension pilot has also completed technical validation across PostgreSQL 14–18; its Organization repository has not yet been created.
 
 ## Compatibility and installation
 
@@ -36,7 +36,7 @@ pgextwinは、選定したPostgreSQL拡張機能を標準的なWindows版Postgre
 - [catalog](https://github.com/pgextwin/catalog) — Websiteと将来のCLIが利用する機械可読catalog
 - [website](https://github.com/pgextwin/website) — catalog駆動の静的Websiteソース
 
-pg_bigm pilotはPostgreSQL 14〜18で技術検証を完了しており、現在このOrganizationへのrepository移管待ちです。
+pg_bigm pilotはPostgreSQL 14〜18で技術検証を完了しており、現在このOrganizationへのrepository移管待ちです。pg_cronの第2Extension pilotもPostgreSQL 14〜18で技術検証を完了しており、Organization配下の正式repository作成待ちです。
 
 ## 対応状況と導入方法
 
