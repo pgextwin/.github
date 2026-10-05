@@ -1,4 +1,4 @@
-![pgextwin mark](pgextwin-mark.svg)
+<img src="pgextwin-mark.svg" alt="pgextwin mark" width="180">
 
 # PostgreSQL Extensions for Windows
 
