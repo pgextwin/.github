@@ -13,8 +13,14 @@ pgextwin is an independent community project that builds and publishes Windows x
 - [website](https://github.com/pgextwin/website) — static catalog-driven website source
 - [pg_bigm](https://github.com/pgextwin/pg_bigm) — published Windows x64 binaries for pg_bigm
 - [pg_cron](https://github.com/pgextwin/pg_cron) — published Windows x64 binaries for pg_cron
+- [pg_hint_plan](https://github.com/pgextwin/pg_hint_plan) — published Windows x64 binaries for pg_hint_plan
+- [pgaudit](https://github.com/pgextwin/pgaudit) — published Windows x64 binaries for pgAudit
+- [set_user](https://github.com/pgextwin/set_user) — published Windows x64 binaries for set_user
+- [pg_repack](https://github.com/pgextwin/pg_repack) — Windows binary work in progress
+- [pg_ivm](https://github.com/pgextwin/pg_ivm) — planned
+- [pg_qualstats](https://github.com/pgextwin/pg_qualstats) — planned
 
-pg_bigm and pg_cron are published for PostgreSQL 14–18 and are listed in the pgextwin catalog. The next extension target is pg_hint_plan.
+pg_bigm, pg_cron, pg_hint_plan, pgAudit, and set_user are published for PostgreSQL 14–18 and are listed in the pgextwin catalog. The current extension target is pg_repack.
 
 ## Compatibility and installation
 
@@ -39,8 +45,14 @@ pgextwinは、選定したPostgreSQL拡張機能を標準的なWindows版Postgre
 - [website](https://github.com/pgextwin/website) — catalog駆動の静的Websiteソース
 - [pg_bigm](https://github.com/pgextwin/pg_bigm) — pg_bigmのWindows x64バイナリ
 - [pg_cron](https://github.com/pgextwin/pg_cron) — pg_cronのWindows x64バイナリ
+- [pg_hint_plan](https://github.com/pgextwin/pg_hint_plan) — pg_hint_planのWindows x64バイナリ
+- [pgaudit](https://github.com/pgextwin/pgaudit) — pgAuditのWindows x64バイナリ
+- [set_user](https://github.com/pgextwin/set_user) — set_userのWindows x64バイナリ
+- [pg_repack](https://github.com/pgextwin/pg_repack) — Windowsバイナリ対応作業中
+- [pg_ivm](https://github.com/pgextwin/pg_ivm) — 計画済み
+- [pg_qualstats](https://github.com/pgextwin/pg_qualstats) — 計画済み
 
-pg_bigmとpg_cronはPostgreSQL 14〜18向けReleaseを公開済みで、pgextwin catalogにも掲載済みです。次の対象Extensionはpg_hint_planです。
+pg_bigm、pg_cron、pg_hint_plan、pgAudit、set_userはPostgreSQL 14〜18向けReleaseを公開済みで、pgextwin catalogにも掲載済みです。現在の対象Extensionはpg_repackです。
 
 ## 対応状況と導入方法
 
