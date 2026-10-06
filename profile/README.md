@@ -17,10 +17,10 @@ pgextwin is an independent community project that builds and publishes Windows x
 - [pgaudit](https://github.com/pgextwin/pgaudit) — published Windows x64 binaries for pgAudit
 - [set_user](https://github.com/pgextwin/set_user) — published Windows x64 binaries for set_user
 - [pg_repack](https://github.com/pgextwin/pg_repack) — published Windows x64 binaries for pg_repack
-- [pg_ivm](https://github.com/pgextwin/pg_ivm) — Windows binary work in progress
-- [pg_qualstats](https://github.com/pgextwin/pg_qualstats) — planned
+- [pg_ivm](https://github.com/pgextwin/pg_ivm) — published Windows x64 binaries for pg_ivm
+- [pg_qualstats](https://github.com/pgextwin/pg_qualstats) — Windows binary work in progress
 
-pg_bigm, pg_cron, pg_hint_plan, pgAudit, set_user, and pg_repack are published for PostgreSQL 14–18 and are listed in the pgextwin catalog. The current extension target is pg_ivm.
+pg_bigm, pg_cron, pg_hint_plan, pgAudit, set_user, pg_repack, and pg_ivm are published for PostgreSQL 14–18 and are listed in the pgextwin catalog. The current extension target is pg_qualstats.
 
 ## Compatibility and installation
 
@@ -49,10 +49,10 @@ pgextwinは、選定したPostgreSQL拡張機能を標準的なWindows版Postgre
 - [pgaudit](https://github.com/pgextwin/pgaudit) — pgAuditのWindows x64バイナリ
 - [set_user](https://github.com/pgextwin/set_user) — set_userのWindows x64バイナリ
 - [pg_repack](https://github.com/pgextwin/pg_repack) — pg_repackのWindows x64バイナリ
-- [pg_ivm](https://github.com/pgextwin/pg_ivm) — Windowsバイナリ対応作業中
-- [pg_qualstats](https://github.com/pgextwin/pg_qualstats) — 計画済み
+- [pg_ivm](https://github.com/pgextwin/pg_ivm) — pg_ivmのWindows x64バイナリ
+- [pg_qualstats](https://github.com/pgextwin/pg_qualstats) — Windowsバイナリ対応作業中
 
-pg_bigm、pg_cron、pg_hint_plan、pgAudit、set_user、pg_repackはPostgreSQL 14〜18向けReleaseを公開済みで、pgextwin catalogにも掲載済みです。現在の対象Extensionはpg_ivmです。
+pg_bigm、pg_cron、pg_hint_plan、pgAudit、set_user、pg_repack、pg_ivmはPostgreSQL 14〜18向けReleaseを公開済みで、pgextwin catalogにも掲載済みです。現在の対象Extensionはpg_qualstatsです。
 
 ## 対応状況と導入方法
 
